@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "73875409064",
+    "project_id": "eval04-mov",
+    "storage_bucket": "eval04-mov.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73875409064:android:fa436ef920255755fb9a9d",
+        "android_client_info": {
+          "package_name": "edu.pe.tecsup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSPg2Jer9imHJyN_KCRb8UXCmaYJ0Zp8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
